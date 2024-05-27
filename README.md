@@ -36,7 +36,7 @@ The script provided in this repository performs the following tasks:
 4. **Set up your OpenAI API key:**
    - Replace the placeholder API key in the script with your actual OpenAI API key:
      ```python
-     api_key = "your_openai_api_key_here"
+     api_key = "bring your own bitch"
      ```
 
 ### Usage
@@ -59,6 +59,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 - Pandas library for data manipulation.
 - Google Colab for file handling.
 
----
-
-Feel free to customize this README file as per your project's specific requirements and structure.
